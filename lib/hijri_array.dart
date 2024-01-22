@@ -88,6 +88,36 @@ const Map<int, String> trMonthShortNames = {
   12: 'ZİLHİC'
 };
 
+const Map<int, String> bsMonthNames = {
+  1: 'Muharrem',
+  2: 'Safer',
+  3: 'Rebiul-evvel',
+  4: 'Rebiul-ahir',
+  5: 'Džumadel-ula',
+  6: 'Džumadel-uhra',
+  7: 'Redžeb',
+  8: 'Ša\'ban',
+  9: 'Ramazan',
+  10: 'Ševval',
+  11: 'Zul-ka\'de',
+  12: 'Zul-hidždže'
+};
+
+const Map<int, String> bsMonthShortNames = {
+  1: 'Muh',
+  2: 'Saf',
+  3: 'Reb1',
+  4: 'Reb2',
+  5: 'Džum1',
+  6: 'Džum2',
+  7: 'Redž',
+  8: 'Šab',
+  9: 'Ram',
+  10: 'Šev',
+  11: 'ZulK',
+  12: 'ZulH'
+};
+
 const Map<int, String> wdNames = {
   7: "Sunday",
   1: "Monday",
@@ -146,6 +176,26 @@ const Map<int, String> trShortWdNames = {
   4: "Perşembe",
   5: "Cuma",
   6: "Cumartesi"
+};
+
+const Map<int, String> bsWdNames = {
+  7: "Nedjelja",
+  1: "Ponedjeljak",
+  2: "Utorak",
+  3: "Srijeda",
+  4: "Četvrtak",
+  5: "Petak",
+  6: "Subota"
+};
+
+const Map<int, String> bsShortWdNames = {
+  7: "Ned",
+  1: "Pon",
+  2: "Uto",
+  3: "Sri",
+  4: "Čet",
+  5: "Pet",
+  6: "Sub"
 };
 
 const List<int> ummAlquraDateArray = [
